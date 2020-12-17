@@ -1,0 +1,13 @@
+{
+    "name": "brenno-duarte/phpmailer-class",
+    "description": "Classe genérica para o PHPMailer",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PHPMailerClass\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.2"
+    }
+}
